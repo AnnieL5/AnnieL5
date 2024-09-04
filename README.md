@@ -20,8 +20,7 @@ Hello😀! I'm Annie Liang, a passionate high school student interested in compu
 - 🌱 Deeply drawn to knowledge from every field.
 
 ## Thanks for Visiting!
-Please email me if you want to collaborate on any projects. 
-Enjoy your day!
+Please email me if you want to collaborate on any projects!
 <!--
 **AnnieL5/AnnieL5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
