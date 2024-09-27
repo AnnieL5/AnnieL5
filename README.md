@@ -17,7 +17,6 @@ Hello😀! I'm Annie Liang, a passionate high school student interested in compu
 ## Fun Facts
 - 💃 Dance is my favourite hobby and I did Rhythmic Gymnastics for over four years;
 - 📧 I have written a code that generates emails to boost efficiency;
-- ✨ Self-studied Multivariable Calculus and Linear Algebra;
 - 🌱 Deeply drawn to knowledge from every field.
 
 ## Thanks for Visiting!
