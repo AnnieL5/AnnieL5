@@ -6,16 +6,16 @@ Hello😀! I'm Annie Liang, a passionate high school student interested in compu
 
 ## Skills
 
-- **Programming Language:** Python, Java, C, C++;
+- **Programming Language:** Python, Java, C, C++, Docker, Kubernetes;
 - **Front-End and Back-End Programming:** HTML, CSS, JavaScript;
 - **Machine Learning:** Python, Numpy, Tensorflow, Pytorch, Matplotlib, OpenCV;
 - **Other Skills:** Enterpreneurship, Research, Project Management, Graphic Design.
 
 ## Contact Me
-- 📫 How to reach me **atianyi.liang@gmail.com**
+- 📫 How to reach me: **atianyi.liang@gmail.com**, or [linked in](https://www.linkedin.com/in/tianyi-liang-68b312376/)
 
 ## Fun Facts
-- 💃 Dance is my favourite hobby and I did Rhythmic Gymnastics for over four years;
+- 💃 Dance and visual arts are my favourite hobbies and I have practiced them for over ten years;
 - 📧 I have written a code that generates emails to boost efficiency;
 - 🌱 Deeply drawn to knowledge from every field.
 
