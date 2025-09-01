@@ -15,7 +15,7 @@ Hello😀! I'm Annie Liang, a passionate high school student interested in compu
 - 📫 How to reach me: **atianyi.liang@gmail.com**, or [linked in](https://www.linkedin.com/in/tianyi-liang-68b312376/)
 
 ## Fun Facts
-- 💃 Dance and visual arts are my favourite hobbies and I have practiced them for over ten years;
+- 💃 Dance and visual arts are my favourite hobbies and I have practiced Rhythmic Gymnastics for over ten years;
 - 📧 I have written a code that generates emails to boost efficiency;
 - 🌱 Deeply drawn to knowledge from every field.
 
