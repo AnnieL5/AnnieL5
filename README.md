@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello😀! I'm Annie Liang, a passionate high school student interested in computer science, math, and economics. I love collaborating with others to make meaningful projects that will impact the world!
+Hello😀! I'm Annie Liang, passionate in AI, computer science, and mechatronics. I love collaborating with others to make meaningful projects that will impact the world!
 
 ## Skills
 
