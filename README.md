@@ -6,10 +6,16 @@ Hello😀! I'm Annie Liang, passionate in AI, computer science, and mechatronics
 
 ## Skills
 
-- **Programming Language:** Python, Java, C, C++, Docker, Kubernetes;
-- **Front-End and Back-End Programming:** HTML, CSS, JavaScript;
-- **Machine Learning:** Python, Numpy, Tensorflow, Pytorch, Matplotlib, OpenCV;
-- **Other Skills:** Enterpreneurship, Research, Project Management, Graphic Design.
+- **Programming Languages**: C++, C, Python, Java, MATLAB;
+- **Front-End and Back-End Programming:** HTML, CSS, JavaScript, Netlify, Railway;
+- **Machine Learning:** Python, Numpy, Tensorflow, Pytorch, Matplotlib, OpenCV;<br><br>
+
+- **Embedded**: Arduino, ESP32, Raspberry Pi;
+- **Firmware development**: PID control, feedforward control, sensor feedback;
+- **Hardware**: KiCad, PCB design, soldering, oscilloscope, AutoCad, Solidworks, Fusion 306;<br><br>
+
+- **Development Tools**: Git, GitLab CI/CD, Linux/Ubuntu, Docker, Kubernetes, VirtualBox;
+- **Other Skills:** Entrepreneurship, Research, Project Management, Graphic Design.
 
 ## Contact Me
 - 📫 How to reach me: **atianyi.liang@gmail.com**, or [linked in](https://www.linkedin.com/in/tianyi-liang-68b312376/)
