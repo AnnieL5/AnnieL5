@@ -17,18 +17,21 @@ Hello😀! I'm Annie Liang, passionate in AI, computer science, and mechatronics
 - **Development Tools**: Git, GitLab CI/CD, Linux/Ubuntu, Docker, Kubernetes, VirtualBox;
 - **Other Skills:** Entrepreneurship, Research, Project Management, Graphic Design.
 
+## Projects:
+Checkout my [portfolio](https://juicy-rhythm-c2e.notion.site/Tianyi-s-Portfolio-3d6dfb9e1dab80d4afa9f1dbb18bbaae?source=copy_link)!
+
 ## Contact Me
 - 📫 How to reach me: **atianyi.liang@gmail.com**, or [linked in](https://www.linkedin.com/in/tianyi-liang-68b312376/)
-
-## Fun Facts
-- 💃 Dance and visual arts are my favourite hobbies and I have practiced Rhythmic Gymnastics for over ten years;
-- 📧 I have written a code that generates emails to boost efficiency;
-- 🌱 Deeply drawn to knowledge from every field.
 
 ## Thanks for Visiting!
 Please email me if you want to collaborate on any projects!
 <!--
 **AnnieL5/AnnieL5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Fun Facts
+- 💃 Dance and visual arts are my favourite hobbies and I have practiced Rhythmic Gymnastics for over ten years;
+- 📧 I have written a code that generates emails to boost efficiency;
+- 🌱 Deeply drawn to knowledge from every field.
 
 Here are some ideas to get you started:
 
